@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="ground.png">image/GROUND.png</file>
+        <file alias="bird.png">image/Normal_Bird_1.png</file>
+        <file>image/1321329378-3367254444.png</file>
+        <file>image/angrybird-black.png</file>
+        <file>image/pajarito2.png</file>
+        <file>image/pajarito5.png</file>
+        <file>image/20150810032747230.png</file>
+        <file>image/pause.png</file>
+        <file>image/restart.jpg</file>
+        <file>image/Pig_sneeze_copy.png</file>
+        <file>image/Piggy_medium.png</file>
+        <file>image/AB Wood Board.png</file>
+        <file>image/INGAME_BLOCKS_WOOD_1square.png</file>
+        <file>image/angry_birds___poached_eggs_theme_i_background_by_angrybirdsstuff-d6qa909.png</file>
+        <file>image/sling_shot_vector_by_birdalliance-d84p8sd.png</file>
+        <file>audioclip-1466331367.wav</file>
+    </qresource>
+</RCC>
