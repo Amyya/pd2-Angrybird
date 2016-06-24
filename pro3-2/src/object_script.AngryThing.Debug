@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\gameitem.o
+./debug\bird.o
+./debug\land.o
+./debug\pig.o
+./debug\yellow_bird.o
+./debug\obstacle.o
+./debug\black_bird.o
+./debug\blue_bird.o
+./debug\slingshot.o
+./debug\score.o
+./debug\qrc_res.o
+./debug\moc_mainwindow.o
+./debug\moc_gameitem.o
+);
